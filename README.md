@@ -2,7 +2,7 @@
 An attempt to reproduce and study the Fourier and Koopman model proposed by Lange et al 2021
 
 # About
-This is part of our group project for 10-701: Introduction to Machine Learning (PhD) (Spring 2024) titled "Physics Informed Machine Learning: A review and short replication" under approval of Prof Henry Chai. For empirical analysis, we have selected "From Fourier to Koopman: Spectral Methods for Long-term Time Series Prediction" by Henning Lange, Steven L. Brunton, Nathan Kutz. 
+This is part of our group project for 10-701: Introduction to Machine Learning (PhD) (Spring 2024) titled "Physics Informed Machine Learning: A review and short replication" under the approval of Prof Henry Chai. For empirical analysis, we have selected "From Fourier to Koopman: Spectral Methods for Long-term Time Series Prediction" by Henning Lange, Steven L. Brunton, Nathan Kutz. 
 
 https://github.com/helange23/from_fourier_to_koopman
 
