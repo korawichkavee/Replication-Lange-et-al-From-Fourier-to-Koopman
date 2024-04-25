@@ -13,3 +13,6 @@ Lange, H., Brunton, S. L., & Kutz, J. N. (2021). From Fourier to Koopman: Spectr
 # Project Members
 1. Korawich Kavee (CMU Civil and Environmental Engineering) 
 2. David Li (CMU Tepper School of Business) 
+
+# Project Mentor
+Michael Zhou
